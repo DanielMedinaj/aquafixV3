@@ -1,0 +1,30 @@
+header {
+	background: #2c3e50;
+	color:#fff;
+}
+
+.main {
+	background: #f2f2f2;
+}
+
+.color1 {
+background: #34495e;
+color: #fff;
+}
+
+aside {
+	background: #c0392b;
+	color: #fff; 
+}
+
+.CAJA {
+    background-color: rgb(255, 143, 161);
+    border: 5px solid rgb(206, 255, 132)
+    }
+.texto{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2cm;
+}
+.fondo{
+    background-color: pink;
+}
