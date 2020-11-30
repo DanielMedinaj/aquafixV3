@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Redirect;
 use App\Models\Cliente;
-
+//Se agregan rutinas de javascript
 class LoginController extends Controller
 {
     public function index(){
